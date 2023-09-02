@@ -1,0 +1,10 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.navbar{
+    color: white;
+    background-color: rgba(0, 0, 0,0.8);
+}
+a.navbar-brand{
+    color: white;
+}
